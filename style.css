@@ -1,0 +1,12 @@
+body{
+    background:turquoise;
+}
+.h1{
+    font-size:30px !important;
+    font-weight: bold;
+    box-shadow: 10px 10px 15px springgreen;
+    border-radius: 8px;
+}
+a:hover{
+    text-decoration: none;
+}
